@@ -1,3 +1,6 @@
+TweetX is a simple Twitter Clone application created using Django web framework to mimic the basic design and functionality of the official Twitter.
+This website contains 5 screens- Registration, Login, Home, Profile, Tweet Details. Features : multiple user support, like/dislike comment or create/delete them, trending section.
+
 
 ## Credentials
   Username : Ayush
